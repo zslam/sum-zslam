@@ -1,0 +1,63 @@
+{
+  "name": "sum-zslam",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "sum-zslam": "^1.0.0",
+	"test-airdrop-khoa1" : "^0.1.0",
+	"test-airdrop-khoa" : "^0.1.1",
+	"tong-huukhoa": "^1.0.0",
+	"sum-setpass": "^1.0.0",
+	"sum-johnnnn":"^1.0.0",
+	"sum-johnnnn":"^1.0.0",
+	"sum-linhthuy1414":"^1.0.0",
+	"sum-giahuyluong":"^1.0.0",
+	"sum-leebaolam":"^1.0.0",
+	"sum-luongtrieuvy":"^1.0.0",
+	"sum-phamtuyetmai":"^1.0.0",
+	"sum-luuhongtuan":"^1.0.0",
+	"sum-dongqn":"^1.0.0",
+	"sum-htu6443":"^1.0.0",
+	"thinhquylat": "^1.0.0",
+	"sum-pamelmille": "^1.0.0",
+	"sum-pao0425": "^1.0.0",
+	"sum-orozgr6676": "^1.0.0",
+	"sum-palici239": "^1.0.0",
+	"sum-orste3927": "^1.0.0",
+	"sum-paubutle": "^1.0.0",
+	"sum-micheljnali": "^1.0.0",
+	"sum-sum-stoutjovan": "^1.0.0",
+	"sum-oliveliza": "^1.0.0",
+	"longan4573": "^1.0.0",
+	"tonhue456": "^1.0.0",
+	"binhtam45": "^1.0.0",
+	"haam8766": "^1.0.0",
+	"pham557": "^1.0.0",
+	"hanma46": "^1.0.0",
+	"phamduc75": "^1.0.0",
+	"hungnam457": "^1.0.0",
+	"hungthuan457": "^1.0.0",
+	"nam65678": "^1.0.0",
+	"vinhgia3464": "^1.0.0",
+	"phung47457": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zslam/sum-zslam"
+  },
+  "homepage": "https://twitter.com/Paty_Paty_98",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "zslam",
+  "license": "MIT"
+}
